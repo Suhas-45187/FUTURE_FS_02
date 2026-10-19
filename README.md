@@ -72,8 +72,8 @@ Install the following before running the application:
 ```bash
 git clone https://github.com/Suhas-45187/FUTURE_FS_02.git
 cd FUTURE_FS_02
-```
 
+```
 ### 2. Configure the backend
 
 ```bash
